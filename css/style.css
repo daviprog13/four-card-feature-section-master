@@ -1,0 +1,17 @@
+@import 'geral.css';
+:root {
+    --Red: #EA5353;
+    --Cyan: #45D3D3;
+    --Orange: #FCAF4A;
+    --Blue: #549EF2;
+    --DarkBlue: #4C4E61;
+    --GrayishBlue: #A3A5AE;
+    --LightGray: #FAFAFA;
+    --font: 'Poppins', sans-serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
